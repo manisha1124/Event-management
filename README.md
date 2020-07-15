@@ -10,6 +10,8 @@ The project is a simple event management system ideal for colleges but can also 
 _Anonymous Users can:_  
 * :monocle_face:View the details of the current and upcoming events
 * :monocle_face:View Gallery of the past events
+![home](https://github.com/manisha1124/Event-management/blob/master/evento/sc/home.png)
+
 
 _Authenticated user can:_
 * :clock12:Add an event
@@ -42,6 +44,8 @@ _**Back-End Technologies**_
  ![index](https://user-images.githubusercontent.com/52491009/87536537-e5349f00-c6b6-11ea-823a-f225d2c106bd.JPG)
  
  _login.php_
- ![login](../Event-management/evento/sc/login.jpg)
+ ![login](https://github.com/manisha1124/Event-management/blob/master/evento/sc/login.JPG)
+ 
  _register.php_
+  ![Register](https://github.com/manisha1124/Event-management/blob/master/evento/sc/register.JPG)
 
