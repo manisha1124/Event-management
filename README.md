@@ -31,6 +31,7 @@ The project is a simple event management system ideal for colleges but can also 
 ![status](https://github.com/manisha1124/Event-management/blob/master/evento/sc/stat_update.PNG)
 * :x:Delete gallery and events
 ![deleteimage](https://github.com/manisha1124/Event-management/blob/master/evento/sc/delimage.PNG)
+![update](https://github.com/manisha1124/Event-management/blob/master/evento/sc/update%20event.PNG)
 * :heavy_plus_sign:Add an admin
 ![admin](https://github.com/manisha1124/Event-management/blob/master/evento/sc/regadmin.PNG)
 * :smile:All function of a authenticated users too
