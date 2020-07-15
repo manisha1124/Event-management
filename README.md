@@ -42,7 +42,6 @@ _**Back-End Technologies**_
  ![index](https://user-images.githubusercontent.com/52491009/87536537-e5349f00-c6b6-11ea-823a-f225d2c106bd.JPG)
  
  _login.php_
- 
- 
+ ![login](../Event-management/evento/sc/login.jpg)
  _register.php_
 
