@@ -24,15 +24,15 @@ The project is a simple event management system ideal for colleges but can also 
 * :white_check_mark:Check if the the event is booked
    ![status](https://github.com/manisha1124/Event-management/blob/master/evento/sc/status.png)
 * :new:Request to add posters or ads on the main page
-   ![popup](https://github.com/manisha1124/Event-management/blob/master/evento/sc/ads.png)
+   ![popup](https://github.com/manisha1124/Event-management/blob/master/evento/sc/ads.PNG)
 
 #### Admin can:
 * :heavy_check_mark:Update the status
-![status](https://github.com/manisha1124/Event-management/blob/master/evento/sc/stat_update.png)
+![status](https://github.com/manisha1124/Event-management/blob/master/evento/sc/stat_update.PNG)
 * :x:Delete gallery and events
 ![deleteimage](https://github.com/manisha1124/Event-management/blob/master/evento/sc/delimage.PNG)
 * :heavy_plus_sign:Add an admin
-![admin](https://github.com/manisha1124/Event-management/blob/master/evento/sc/regadmin.png)
+![admin](https://github.com/manisha1124/Event-management/blob/master/evento/sc/regadmin.PNG)
 * :smile:All function of a authenticated users too
 
 ## Techincal Stack:
