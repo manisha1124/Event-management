@@ -20,7 +20,7 @@ The project is a simple event management system ideal for colleges but can also 
    ![cancel](https://github.com/manisha1124/Event-management/blob/master/evento/sc/cancel.png)
 * :world_map:Book a place to conduct the event
 * :camera_flash:Add pictures to the event gallery
-  ![gallery](https://media.giphy.com/media/Q5EQSsAF0pHAsHVUsv/giphy.gif)
+  ![gallery]
 * :white_check_mark:Check if the the event is booked
    ![status](https://github.com/manisha1124/Event-management/blob/master/evento/sc/status.png)
 * :new:Request to add posters or ads on the main page
